@@ -1,4 +1,3 @@
-# MiBici Bikeshare and Weather Analysis
 <img width="1395" alt="MiBici_cover" src="https://github.com/user-attachments/assets/9e28c5f1-2d7d-47e8-8efa-8e301536e5af" />
 
 ## Overview
