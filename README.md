@@ -1,7 +1,5 @@
 # MiBici Bikeshare and Weather Analysis
 
-![Uploading MiBici_cover.png…]()
-
 ## Overview
 
 [MiBici](https://www.mibici.net/) (translated as *MyBike* in english) is a public bike service used in my home city of [Guadalajara](https://en.wikipedia.org/wiki/Guadalajara) (GDL), Jalisco, Mexico. This service is used in Guadalajara's Metropolitan Area, which has a population of 5,268,642 (as of 2020) distributed in eight main municipalities and a total area of 2,543.13 squared km (981.91 squared mi).
@@ -26,17 +24,8 @@ Data was obtained directly from [MiBici's public data website](https://www.mibic
 
 ## Results
 
-In Guadalajara's Metropolitan Area during April, 2020:
-
-- 129,185 total trips, 8,169 unique users and an average of 15.81 trips per user.
-- Mean age was 33.92 years, median age was 31 years, and minimum and maximum ages were 17 and 103 years respectively, with a standard deviation of 10.59 years.
-- Average bike ride duration was 11 min and 15 seconds, mean was 9 min 38 seconds, and minimum and maximum were 2 seconds and 23 hours 11 min 46 seconds respectively, with a standard deviation of 13 min 50 seconds.
-- Out of 129,185 total trips, 99267 (76.84%) were registered by male users and 29,917 (23.16%) by female users.
-- Overall, male users had more registered bike trips and longer trip durations.
-- Most bike trips took place on Wednesdays, and there were overall more trips during weekdays than weekends.
-- Peaks of bike use were registered at 8am, 2pm, and 6pm, which aligns with typical working schedules from 9am to 5pm with lunch taken usually between 1 - 3pm.
-- Most used stations are found around Guadalajara's Downtown which is more densly-populated and has more buisnesses, offices, and cultural settings (restaurants, bars, venues, etc.).
-- Least used stations are found at the outskirts of Guadalajara's metropolitan area, which is less densly populated and has less bike stations.
+In Guadalajara's Metropolitan Area during 2024:
+(pending)
 
 ## Datasets available in Kaggle
 
