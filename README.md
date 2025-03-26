@@ -1,4 +1,5 @@
 # MiBici Bikeshare and Weather Analysis
+<img width="1395" alt="MiBici_cover" src="https://github.com/user-attachments/assets/9e28c5f1-2d7d-47e8-8efa-8e301536e5af" />
 
 ## Overview
 
@@ -12,10 +13,10 @@ This repository includes R scripts to merge, transform, and clean data from 4,49
 
 ## Objectives
 
-- Download and merge data from 2024 into a single clean and organized dataset (_**bikeshare_GDL_2024_clean.csv**_, available here (pending))
+- Download and merge data from 2024 into a single clean and organized dataset (_**bikeshare_GDL_2024_clean.csv**_, available here (*pending*)).
 - Obtain hourly weather data from 2024 and store as an appropriately formatted dataset (_**hourly_weather_GDL_2024.csv**_).
 - Convert bikeshare data into an hourly format and merge with weather data (_**bikeshare_and_weather_GDL_2024.csv**_).
-- Perform a descriptive and exploratory data analysis of the 4,496,890 registered bike trips in 2024 (_**EDA_GDL_bikeshare_2024.pdf**_) (pending).
+- Perform a descriptive and exploratory data analysis of the 4,496,890 registered bike trips in 2024 (_**EDA_GDL_bikeshare_2024.pdf**_) (*pending*).
 - Implement different regression models on the hourly bikeshare and weather data, analyze assumptions, and interpret results to determine explanatory and predictive use (_**regression_GDL_2024.pdf**_) (pending). 
 
 ## Data
@@ -25,7 +26,8 @@ Data was obtained directly from [MiBici's public data website](https://www.mibic
 ## Results
 
 In Guadalajara's Metropolitan Area during 2024:
-(pending)
+
+(*pending*)
 
 ## Datasets available in Kaggle
 
