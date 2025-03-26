@@ -21,6 +21,44 @@ This repository includes R scripts to merge, transform, and clean data from 4,49
 
 Data was obtained directly from [MiBici's public data website](https://www.mibici.net/es/datos-abiertos/). In this site, data is published in CSV files corresponding to individuals month from December 2014 to Febuary 2025. 
 
+### bikeshare_weather_GDL_2024.csv variables:
+
+| *variable*           | *description*                                                                            | *units*  |
+| -------------------- | ---------------------------------------------------------------------------------------- | -------- |
+| date                 | date in yyyy-mm-dd format (i.e. '2024-01-01')                                            | date     |
+| month                | month of year (1 = jan, 2 = feb, ... , 12 = dec)                                         | month    |
+| day                  | day of month                                                                             | day      |
+| hour                 | hour of the day in 24 h format starting at 0                                             | hour     |
+| trip_count           | count of hourly bike trips                                                               | count    |
+| is_weekend           | is the day a weekend? i.e. saturday/sunday (1 = yes, 0 = no)                             | binary   |
+| is_holiday           | is the day a federal holiday in Mexico? (1 = yes, 0 = no)                                | binary   |
+| apparent_temperature | perceived temperature combining wind chill factor, relative humidity and solar radiation | °C       |
+| wind_speed           | wind speed at 10 meters above ground                                                     | km/h     |
+| is_day               | 1 if the current time has daylight, 0 at night                                           | binary   |
+| temperature          | air temperature at 2 meters above ground                                                 | °C       |
+| relative_humidity    | relative humidity at 2 meters above ground                                               | %        |
+| precipitation        | total precipitation (rain, showers, snow) sum of the preceding hour                      | mm       |
+| weather_code         | weather condition as a numeric code. Follow WMO weather interpretation codes (see below) | WMO code |
+| season               | season of the year (winter, spring, summer, fall)                                        | category |
+
+80  95 81 96
+
+## WMO Weather interpretation codes (WW)
+
+| *code* | *description*                 | 
+| -------| ----------------------------- |
+| 0	     | clear sky                     |
+| 1      | mainly clear                  |
+| 2	     | partly cloudy                 |
+| 3	     | overcast                      |
+| 45     | fog                           |
+| 61     | rain: slight                  |
+| 63     | rain: moderate                |
+| 80     | rain showers: slight          |
+| 81     | rain showers: moderate        |
+| 95     |	thunderstorm                 | 
+| 96     | thunderstorm with slight hail |
+
 ## Results
 
 In Guadalajara's Metropolitan Area during 2024:
