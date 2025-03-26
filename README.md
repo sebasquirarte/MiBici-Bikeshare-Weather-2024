@@ -18,7 +18,7 @@ This repository includes R scripts to merge, transform, and clean data from 4,49
 - Obtain hourly weather data from 2024 and store as an appropriately formatted dataset (_**GDL_weather_2024.csv**_).
 - Convert bikeshare data into an hourly format and merge with weather data (_**GDL_hourly_2024.csv**_).
 - Perform a descriptive and exploratory data analysis of the 4,496,890 registered bike trips in 2024 (_**EDA_GDL_bikeshare_2024.pdf**_).
-- Implement different regression models on the hourly bikeshare and weather data, analyze assumptions, and interpret results to determine explanatory and predictive use (_**Regression_GDL_2024.pdf**_). 
+- Implement different regression models on the hourly bikeshare and weather data, analyze assumptions, and interpret results to determine explanatory and predictive use (_**regression_GDL_2024.pdf**_). 
 
 ## Data
 
