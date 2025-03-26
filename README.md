@@ -1,5 +1,7 @@
 # MiBici Bikeshare and Weather Analysis
 
+![Uploading MiBici_cover.png…]()
+
 ## Overview
 
 [MiBici](https://www.mibici.net/) (translated as *MyBike* in english) is a public bike service used in my home city of [Guadalajara](https://en.wikipedia.org/wiki/Guadalajara) (GDL), Jalisco, Mexico. This service is used in Guadalajara's Metropolitan Area, which has a population of 5,268,642 (as of 2020) distributed in eight main municipalities and a total area of 2,543.13 squared km (981.91 squared mi).
