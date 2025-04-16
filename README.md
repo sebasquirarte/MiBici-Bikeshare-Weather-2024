@@ -51,6 +51,6 @@ Data was obtained directly from [MiBici's public data website](https://www.mibic
 
 ## Datasets available in Kaggle
 
-2024 Guadalajara bikeshare and weather datasets available through Kaggle. 
+2024 Guadalajara bikeshare and weather datasets available through [Kaggle](https://www.kaggle.com/datasets/sebastianquirarte/mibici-bikeshare-weather-data-2024). 
 
 I have also cleaned, transformed, and combined all bikeshare data from Dec 2014 to Mar 2024 and published the final dataset (2.51 GB) in [Kaggle](https://www.kaggle.com/datasets/sebastianquirarte/over-9-years-of-real-public-bike-use-data-mibici).
