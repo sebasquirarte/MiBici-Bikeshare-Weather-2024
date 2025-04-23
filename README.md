@@ -33,7 +33,7 @@ Data was obtained directly from [MiBici's public data website](https://www.mibic
 | weather_code         | weather condition as a numeric code. Follow WMO weather interpretation codes (see below) | WMO code |
 | season               | season of the year (winter, spring, summer, fall)                                        | category |
 
-## WMO Weather interpretation codes (WW)
+## WMO Weather interpretation codes
 
 | *code* | *description*                 | 
 | -------| ----------------------------- |
